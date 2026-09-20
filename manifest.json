@@ -1,0 +1,8 @@
+{
+  "name": "ToolNest",
+  "short_name": "ToolNest",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#5b5cf0",
+  "background_color": "#f5f7fb"
+}
